@@ -1,0 +1,1 @@
+echo MySql component
