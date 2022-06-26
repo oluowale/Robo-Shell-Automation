@@ -1,1 +1,4 @@
-echo Shipping component
+source components/common.sh
+
+COMPONENT=shipping
+MAVEN
