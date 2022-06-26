@@ -1,1 +1,4 @@
-echo Payment component
+source components/common.sh
+
+COMPONENT=payment
+PYTHON
