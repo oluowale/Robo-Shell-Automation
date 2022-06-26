@@ -1,1 +1,4 @@
-echo Catalogue component
+source components/common.sh
+
+COMPONENT=catalogue
+NODEJS
