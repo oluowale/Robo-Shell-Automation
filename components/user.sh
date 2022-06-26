@@ -1,1 +1,4 @@
-echo user component
+source components/common.sh
+
+COMPONENT=user
+NODEJS
